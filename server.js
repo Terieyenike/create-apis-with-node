@@ -21,6 +21,7 @@ app.get('/', (req, res) => {
 });
 
 app.use('/friends', friendsRouter);
+app.use('/messages', messagesRouter)
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.listen(PORT, () => {
