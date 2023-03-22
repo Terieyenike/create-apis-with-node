@@ -19,13 +19,13 @@ Using the Postman platform, test all endpoints with the request method.
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/Terieyenike/create-apis-with-node
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd create-apis-with-node
 ```
 
 Install dependencies
